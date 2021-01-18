@@ -11,10 +11,8 @@ Olá, tudo bem?
 
 Me chamo George Santos, tenho 19 anos de idade e sou um programador em tempo - e estudo - integral. Dentre as linguagens de programação que domino a que mais se destaca é o JavaScript e suas variações/frameworks existentes aos quais estarão listados abaixo, que são também as tecnologias mais cotadas e eficientes para a produção de websites de alto desempenho e segurança creditável.
 
-
-
 <details>
-<summary>Projects</summary>
+<summary>Projetos</summary>
   
   <!---
   | Command | Description |
@@ -60,8 +58,3 @@ Me chamo George Santos, tenho 19 anos de idade e sou um programador em tempo - e
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maartengr" alt="maartengr" /> </p>
 
 -->
-
------
-Credits: [Maarten Grootendors](https://github.com/MaartenGr)
-
-Last Edited on: 30/11/2020
