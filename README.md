@@ -3,7 +3,7 @@
 <a href="http://gesant.dev/" target="blank"><img align="center" src="https://img.shields.io/badge/-Meu Website-7CB342?style=for-the-badge&labelColor=7CB342" alt="maartengrootendorst"/></a>
 </p>
 
-🥧 - Me chamo George Santos, tenho 19 anos de idade e sou um programador em tempo - e estudo - integral. Dentre as linguagens de programação que domino a que mais se destaca é o JavaScript e suas variações/frameworks existentes presentes nos projetos listados abaixo, que são as tecnologias mais cotadas e eficientes para a produção de websites e sistemas web em geral de alto desempenho e segurança creditável.
+- 🥧 Me chamo George Santos, tenho 19 anos de idade e sou um programador em tempo - e estudo - integral. Dentre as linguagens de programação que domino a que mais se destaca é o JavaScript e suas variações/frameworks existentes presentes nos projetos listados abaixo, que são as tecnologias mais cotadas e eficientes para a produção de websites e sistemas web em geral de alto desempenho e segurança creditável.
 
 <details>
 <summary>Projetos</summary>
