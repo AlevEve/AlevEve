@@ -6,18 +6,11 @@
 </p>
 
 <p align="center">
-Me chamo **George Santos**, tenho 19 anos de idade e sou um programador em tempo - e estudo - integral. Dentre as linguagens de programação que domino a que mais se destaca é o JavaScript e suas variações/frameworks existentes presentes nos projetos listados abaixo, que são as tecnologias mais cotadas e eficientes para a produção de websites e sistemas web em geral de alto desempenho e segurança creditável.
+Me chamo George Santos, tenho 19 anos de idade e sou um programador em tempo - e estudo - integral. Dentre as linguagens de programação que domino a que mais se destaca é o JavaScript e suas variações/frameworks existentes presentes nos projetos listados abaixo, que são as tecnologias mais cotadas e eficientes para a produção de websites e sistemas web em geral de alto desempenho e segurança creditável.
  </p>
 <details>
 <summary>Projetos</summary>
-  
-  <!---
-  | Command | Description |
-| --- | --- |
-| [Vectors of Locally Aggregated Concepts](https://github.com/MaartenGr/VLAC) | <img src="https://img.shields.io/badge/-NLP-red"> <img src="https://img.shields.io/badge/-Python-blue">|
-| ... | ... |
-  --->
-  
+ 
 | Projetos | Tags |
 | --- | --- |
 | [**Nezumi**](https://github.com/Nezumibot/Nezumi) | <img src="https://img.shields.io/badge/-TypeScript-blue"> <img src="https://img.shields.io/badge/-PostgreSQL-blue"> <img src="https://img.shields.io/badge/-Discord-purple"> <img src="https://img.shields.io/badge/-Redis-red"> <img src="https://img.shields.io/badge/-Node.js-brightgreen">|
