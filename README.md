@@ -5,8 +5,9 @@
 <a href="https://twitter.com/maartengr" target="blank"><img align="center" src="https://img.shields.io/badge/-Twitter-A7C0FF?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/maartengr" alt="maartengrootendorst"/></a>
 </p>
 
-Me chamo George Santos, tenho 19 anos de idade e sou um programador em tempo - e estudo - integral. Dentre as linguagens de programação que domino a que mais se destaca é o JavaScript e suas variações/frameworks existentes presentes nos projetos listados abaixo, que são as tecnologias mais cotadas e eficientes para a produção de websites e sistemas web em geral de alto desempenho e segurança creditável.
-
+<p align="center">
+Me chamo **George Santos**, tenho 19 anos de idade e sou um programador em tempo - e estudo - integral. Dentre as linguagens de programação que domino a que mais se destaca é o JavaScript e suas variações/frameworks existentes presentes nos projetos listados abaixo, que são as tecnologias mais cotadas e eficientes para a produção de websites e sistemas web em geral de alto desempenho e segurança creditável.
+ </p>
 <details>
 <summary>Projetos</summary>
   
