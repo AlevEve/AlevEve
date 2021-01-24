@@ -11,6 +11,7 @@
 | Projetos | Tags |
 | --- | --- |
 | [**Nezumi**](https://github.com/Nezumibot/Nezumi) | <img src="https://img.shields.io/badge/-TypeScript-blue"> <img src="https://img.shields.io/badge/-PostgreSQL-blue"> <img src="https://img.shields.io/badge/-ESLINT-purple"> <img src="https://img.shields.io/badge/-Redis-red"> <img src="https://img.shields.io/badge/-Node.js-brightgreen">|
+| [**AngelGuard**](https://github.com/AlevEve/AngelGuard) | <img src="https://img.shields.io/badge/-TypeScript-blue"> <img src="https://img.shields.io/badge/-ESLINT-purple"> <img src="https://img.shields.io/badge/-Node.js-brightgreen">|
 
 </details>  
 
